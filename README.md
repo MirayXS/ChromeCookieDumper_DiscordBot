@@ -1,5 +1,6 @@
 # ChromeCookieDumper
 > Chrome Cookie Dumper
+>> !! didnt make it !!
 ## DiscordBot
 ### Made in Python
 #### Enter `Discord Bot Token` in the last line of the oython file DiscordBot.py.
